@@ -4,7 +4,7 @@
 Created on Thu Oct 18 20:37:37 2018
 
 @author: sohinimitra
-Q1 Using PySpark
+
 """
 
 import sys
